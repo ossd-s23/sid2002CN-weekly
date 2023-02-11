@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a third-year undergraduate student from New York University.
+I chose to major in computer science because it affords me the opportunity to explore my passion for solving problems with my hand. I love to engage in this end-to-end experience which is fulfilling to me because I get to not only brings up an idea but also bring it to fruition.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+I am also interested in video games. I have always wanted to become an indie game developer in the future.
