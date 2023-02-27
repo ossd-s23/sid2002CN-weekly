@@ -25,3 +25,4 @@ Replace the first row with your own contribution.
 | Feb 26   | [Link](https://www.openstreetmap.org/changeset/133069342)    | OpenStreet Map feature    |   Updated information about my favourite hotpot.    |
 | Feb 26    |  [Link](https://www.openstreetmap.org/changeset/133069146)  | OpenStreet Map feature     | Updated information about a local restaurant with wrong phone number.    |
 | Feb 26    |   [Link](https://www.openstreetmap.org/changeset/133068951) | OpenStreet Map feature     | Updated information about a local market.    | 
+| Feb 26    |   [Link](https://en.wikipedia.org/w/index.php?title=The_Scroll_of_Taiwu&diff=prev&oldid=1141824087) | Wikipedia edit     | Updated information about my indie favourite game.    | 
