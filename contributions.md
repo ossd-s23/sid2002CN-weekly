@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
-|     |     |     |      |
+| Feb 26   | https://www.openstreetmap.org/changeset/133069342    | OpenStreet Map feature    |   Updated information about my favourite hotpot.    |
+| Feb 26    |  https://www.openstreetmap.org/changeset/133069146  | OpenStreet Map feature     | Updated information about a local restaurant with wrong phone number.    |
+| Feb 26    |   https://www.openstreetmap.org/changeset/133068951 | OpenStreet Map feature     | Updated information about a local market.    | 
