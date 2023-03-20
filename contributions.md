@@ -26,3 +26,5 @@ Replace the first row with your own contribution.
 | Feb 26    |  [Link](https://www.openstreetmap.org/changeset/133069146)  | OpenStreet Map feature     | Updated information about a local restaurant with wrong phone number.    |
 | Feb 26    |   [Link](https://www.openstreetmap.org/changeset/133068951) | OpenStreet Map feature     | Updated information about a local market.    | 
 | Feb 26    |   [Link](https://en.wikipedia.org/w/index.php?title=The_Scroll_of_Taiwu&diff=prev&oldid=1141824087) | Wikipedia edit     | Updated information about my indie favourite game.    | 
+| Mar 20    |   [Link](https://www.openstreetmap.org/changeset/133881621#map=19/40.75010/-73.94124&layers=N) | OpenStreet Map feature     | Updated information about a local restaurant.    |
+| Mar 20    |   [Link](https://en.wikipedia.org/w/index.php?title=Gunfire_Reborn&oldid=1145632758) | Wikipedia edit     | Updated information about a fps game.    |
